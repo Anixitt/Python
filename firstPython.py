@@ -1,6 +1,6 @@
 if __name__ =='__main__':
     
-    inrange_1=range(2,5)
+    inrange_1=range(2,6)
     
     n = int(input("Enter your number "))
     
